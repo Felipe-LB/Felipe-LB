@@ -1,4 +1,4 @@
-### Oi!👋 Me chamo Felipe, tenho 19 anos, e atualmente iniciei meus estudos na área de programação!
+### Oi!👋 Me chamo Felipe, tenho 20 anos, e atualmente iniciei meus estudos na área de programação!
 
 ##
 
