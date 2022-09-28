@@ -2,7 +2,7 @@
 
 ##
 
-- 🌱 Estou atualmente estudando lógica de programação, HTML, CSS e o básico de Javascript.
+- 🌱 Estou atualmente estudando lógica de programação, e cursando Análise e Desenvolvimento de Sistemas
 - 📫 Entre em contato: felipelopesb02@gmail.com
 
   ##
