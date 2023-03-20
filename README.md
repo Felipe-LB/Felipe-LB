@@ -2,7 +2,7 @@
 
 ##
 
-- 🌱 Estou atualmente estudando lógica de programação, e cursando Análise e Desenvolvimento de Sistemas
+- 🌱 Estou atualmente estudando lógica de programação, orientação à objetos e java, e cursando Análise e Desenvolvimento de Sistemas
 - 📫 Entre em contato: felipelopesb02@gmail.com
 
   ##
