@@ -1,8 +1,8 @@
-### Oi!👋 Me chamo Felipe, tenho 21 anos, e atualmente iniciei meus estudos na área de programação!
+### Oi!👋 Me chamo Felipe, tenho 23 anos, e atualmente esttou estudando java para backend!
 
 ##
 
-- 🌱 Estou atualmente estudando lógica de programação, orientação à objetos e java, e cursando Análise e Desenvolvimento de Sistemas
+
 - 📫 Entre em contato: felipelopesb02@gmail.com
 
   ##
