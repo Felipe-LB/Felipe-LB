@@ -15,6 +15,7 @@ Me chamo Felipe, tenho 23 anos e atualmente estou estudando Java para backend no
   <img height="30" src="https://icongr.am/devicon/java-original-wordmark.svg?size=148&color=currentColor">
   <img height="30" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=fffafa">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img loading="lazy"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 </p>
 ---
 
